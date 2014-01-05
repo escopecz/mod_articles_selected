@@ -2,7 +2,7 @@
 /**
  * @subpackage	mod_articles_selected
  * @copyright	Copyright (C) Jan Linhart (escope.cz). All rights reserved.
- ; 03.01.2014 Modified by Christian Burger - now it´s compatible with Joomla 3.2 and german language included.
+ * 03.01.2014 Modified by Christian Burger - now it´s compatible with Joomla 3.2 and german language included.
  * @license		GNU General Public License version 2 or later
  */
 
