@@ -16,9 +16,11 @@
 		<filename>index.html</filename>
 		<filename>mod_articles_selected.xml</filename>
 	</files>
-	<languages>
-		<language tag="en-GB">en-GB.mod_articles_selected.ini</language>
-		<language tag="en-GB">en-GB.mod_articles_selected.sys.ini</language>
+	<languages folder="languages">
+		<language tag="en-GB">en-GB/en-GB.mod_articles_selected.ini</language>
+		<language tag="en-GB">en-GB/en-GB.mod_articles_selected.sys.ini</language>
+		<language tag="de-DE">de-DE/de-DE.mod_articles_selected.ini</language>
+		<language tag="de-DE">de-DE/de-DE.mod_articles_selected.sys.ini</language>
 	</languages>
 	<config>
 		<fields name="params">
