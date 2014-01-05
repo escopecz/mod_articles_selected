@@ -7,7 +7,7 @@
 	<license>GNU General Public License version 2 or later</license>
 	<authorEmail>admin@escope.cz</authorEmail>
 	<authorUrl>http://www.escope.cz</authorUrl>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<description>Module to display intro of selected articles.</description>
 	<files>
 		<filename module="mod_articles_selected">mod_articles_selected.php</filename>
