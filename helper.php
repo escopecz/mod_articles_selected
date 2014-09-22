@@ -2,7 +2,7 @@
 /**
  * @subpackage	mod_articles_selected
  * @copyright	Copyright (C) Jan Linhart (escope.cz). All rights reserved.
- * 03.01.2014 Modified by Christian Burger - now it´s compatible with Joomla 3.2 and german language included.
+ * 03.01.2014 Modified by Christian Burger - now itÂ´s compatible with Joomla 3.2 and german language included.
  * @license		GNU General Public License version 2 or later
  */
 
@@ -30,7 +30,7 @@ abstract class modArticlesSelectedHelper
 
 		$model->setState('filter.published', 1);
 
-		$model->setState('list.select', 'a.fulltext, a.id, a.title, a.introtext, a.state, a.catid, a.created, a.created_by, a.created_by_alias,' .
+		$model->setState('list.select', 'a.fulltext, a.id, a.alias, a.title, a.introtext, a.state, a.catid, a.created, a.created_by, a.created_by_alias,' .
 			' a.modified, a.modified_by, a.publish_up, a.publish_down, a.images, a.urls, a.attribs, a.metadata, a.metakey, a.metadesc, a.access,' .
 			' a.hits, a.featured' );
 		// Access filter
